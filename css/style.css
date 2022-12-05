@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    color: #31A5AC;
+    font-size: 72px;
+}
+.box{
+    width: 542px;
+    height: 900px;
+    background: #F8F8F8;
+}
+img{
+    width: 700px;
+    height: 900px;
+}
